@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Sharma </h1>
-<h3 align="center"> i am currently pursing from USICT, Delhi with a 7.7 CGPA in Master's of Computer Applications(MCA). I'm well-versed in MERN stack, C++, DSA, OOPS, DBMS, and OS, but I'm not afraid to step outside of my comfort zone and learn new things.</h3>
+<h3 align="center"> i am currently pursing from USICT, Delhi with a 8.2 CGPA in Master's of Computer Applications(MCA). I'm well-versed in MERN stack, C++, DSA, OOPS, DBMS, and OS, but I'm not afraid to step outside of my comfort zone and learn new things.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnandSharma916 ](https://github.com/AnandSharma916)
 
