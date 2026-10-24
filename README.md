@@ -22,7 +22,7 @@
 ### 🧑‍💻 About Me
 
 * 🖥️ **Frontend Developer** at **Promopact Marketing India Pvt Ltd**  
-* 🚀 **1.5+ years** of experience in building responsive, high-performance web apps  
+* 🚀 **2+ years** of experience in building responsive, high-performance web apps  
 * 💡 Skilled in **React.js, HTML, CSS, JavaScript, GSAP, Tailwind, Redux**  
 * 🌱 Currently diving deeper into **Full Stack Development** (Express, MongoDB, Node.js)  
 * 🧠 I love solving problems with **C++ & DSA**  
